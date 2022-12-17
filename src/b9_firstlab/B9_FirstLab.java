@@ -8,7 +8,8 @@ package b9_firstlab;
 public class B9_FirstLab {
 
     public static void main(String[] args) {
-        System.out.println("Hi, I'm Asmaa Alharbi");
+        System.out.println("Hi, I'm Asmaa");
+         System.out.println("Hello There!!");
     }
     
 }
